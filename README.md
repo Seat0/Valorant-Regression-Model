@@ -1,1 +1,1 @@
-Please run the R scripts in the following order: champs.R, masters.R, pred.R
+Please go into the output folder to access the report and R Markdown file.
