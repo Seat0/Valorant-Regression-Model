@@ -1,7 +1,25 @@
-**Abstract**
+# Valorant Esports Prediction Model Preview
 
-The goal of this project is to determine how well a regression model can perform against the Valorant
-player base to predict the outcomes of a Valorant videogame tournament. I used data from VLR.gg that
-records player statistics. I cleaned the data by creating statistics for each team by averaging player statistics.
-I then created a regression based on the team’s performance metrics. The results show that the regression
-placed in the top 4th percentile out of several hundred thousand participants predicting the matches.
+This project builds a regression model to predict outcomes of Valorant Champions Tour (VCT) playoff matches using player-level statistics from [VLR.gg](https://www.vlr.gg/).  
+
+---
+
+##  Overview
+- Cleaned and processed raw esports match data in **RStudio**  
+- Using the stargazer package, built a regression model using continous and dummy variables
+- Achieved **top 4% in accuracy** compared to users predicting VCT outcomes  
+
+---
+
+## Visuals
+
+
+![Accuracy Plot](https://github.com/Seat0/Valorant-Regression-Model/blob/main/R%20Visuals/Screenshot%202025-09-15%20161045.png?raw=true)  
+
+![Accuracy Plot](https://github.com/Seat0/Valorant-Regression-Model/blob/main/R%20Visuals/Screenshot%202025-09-15%20161104.png?raw=true)  
+
+![Accuracy Plot](https://github.com/Seat0/Valorant-Regression-Model/blob/main/R%20Visuals/Screenshot%202025-09-15%20161123.png?raw=true)  
+
+
+---
+
