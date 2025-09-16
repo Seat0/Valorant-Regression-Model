@@ -5,8 +5,8 @@ This project builds a regression model to predict outcomes of Valorant Champions
 ---
 
 ##  Overview
-- Cleaned and processed raw esports match data in **RStudio**  
-- Using the stargazer package, built a regression model using continous and dummy variables
+- Cleaned and processed raw Esports match data in **RStudio**  
+- Used stargazer package for regression table, built a regression model using continous and dummy variables
 - Achieved **top 4% in accuracy** compared to users predicting VCT outcomes  
 
 ---
